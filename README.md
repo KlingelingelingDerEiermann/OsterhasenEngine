@@ -1,5 +1,5 @@
 <img src="logo.jpg" width="695" height="219"/>
-# 🎉🥚🐇 Osterhasen Engine 🐰🥚🎉
+🎉🥚🐇 Osterhasen Engine 🐰🥚🎉
 
 Eine wunderbahre, moderne Game Engine, die alle wundabahren Technologien verwenden wird,
 wie Ray Tracing, Mesh Shading und Variable Rate Shading!
