@@ -1,0 +1,6 @@
+#ifndef WUNDABAAH_WERKZEUGE_H
+#define WUNDABAAH_WERKZEUGE_H
+
+#define OSTERHASE_SEQUENZLAENGE(x) sizeof(x) / sizeof(*x)
+
+#endif //WUNDABAAH_WERKZEUGE_H
